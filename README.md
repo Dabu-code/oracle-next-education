@@ -1,7 +1,6 @@
-# Challenge One: Encriptador de texto DB
+# Challenge One: Encriptador de texto DB.
 
-Este proyecto es una aplicación de consola que permite encriptar y desencriptar texto utilizando una clave y un algoritmo de encriptación. 
-
+"Challenge One: Encriptador de texto" es un proyecto de programación que implica la creación de una aplicación de consola para encriptar y desencriptar texto utilizando una clave y un algoritmo de encriptación
 ## Cómo utilizar la aplicación
 
 Para utilizar la aplicación, primero debes clonar este repositorio en tu ordenador:
