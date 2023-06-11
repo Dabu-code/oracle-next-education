@@ -24,7 +24,7 @@ Si quieres contribuir a este proyecto, puedes hacerlo creando una rama con tus c
 
 ## Contacto
 
-Si tienes alguna pregunta o comentario sobre este proyecto, puedes contactar conmigo a través de mi correo electrónico [danny.bucay@outllok.com](mailto:danny.bucay@outllok.com) o en [LinkedIn](https://www.linkedin.com/in/danny-joel-bucay-shucad/).
+Si tienes alguna pregunta o comentario sobre este proyecto, puedes contactar conmigo a través de mi correo electrónico [danny.bucay@outlook.com](mailto:danny.bucay@outlook.com) o en [LinkedIn](https://www.linkedin.com/in/danny-joel-bucay-shucad/).
 
 
 ## Desarrollado por
